@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Datoteke</string>
+    <string name="action_settings">Settings</string>
+    <string name="navodilo">Vpiši ime za vnos</string>
+    <string name="shrani">Shrani</string>
+    <string name="pobrisi">Pobriši tekst</string>
+    <string name="zbrisi_seznam">Zbriši seznam</string>
+    <string name="prikazi_seznam">Prikaži seznam</string>
+</resources>
